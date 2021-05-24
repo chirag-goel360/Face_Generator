@@ -1,0 +1,14 @@
+https://drive.google.com/file/d/1ulsu-_oVxdp5wVGH0IUmPTrPydt-MZRM/view?usp=sharing
+
+test.h5
+
+https://drive.google.com/file/d/1fL2vt0AIDVquR0vP5lirRaVJxivQ21K_/view?usp=sharing
+
+test1.h5
+
+https://drive.google.com/file/d/1-ExIEMk2JBu88PEC49y9Cqr0Bgn7yLpv/view?usp=sharing
+
+test2.h5
+
+
+Download all these files and place all these files in FlaskServerHuman folder.
